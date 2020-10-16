@@ -1,4 +1,4 @@
-# Hyperblog :fa-heart:
+﻿# Hyperblog :fa-heart:
 Un blog incre&iacute;ble para el[ curso de Git y Github](https://platzi.com/cursos/git-github/ " curso de Git y Github") de [Platzi](https://platzi.com/ "Platzi")
 > El curso de Git y Github de Platzi es lo que me hac&iacute;a falta para empezar a aprender y lanzarme a la industria del software.
 > Isaac
@@ -10,8 +10,6 @@ Un blog incre&iacute;ble para el[ curso de Git y Github](https://platzi.com/curs
 * Trucos muy locos del profesor
 * Las personalidades m&uacute;ltiples de Isaac
 * Creado por el increible team platzi
-<<<<<<< HEAD
-=======
 * Incluye ejemplos en Windows,Linux y MAC
 * Disponible para todas las edades
 >>>>>>> readme-mejorado
